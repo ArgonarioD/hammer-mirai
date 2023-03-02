@@ -1,6 +1,6 @@
 rootProject.name = "hammer-mirai"
 include(
-    "hammer-core",
-    "hammer-web-core",
-    "hammer-core-test",
+    "hammer-mirai-utils",
+    "hammer-mirai-utils-web",
+    "hammer-mirai-utils-test",
 )
