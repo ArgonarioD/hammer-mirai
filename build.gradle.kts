@@ -11,7 +11,7 @@ allprojects {
     apply(plugin = "kotlin")
     apply(plugin = "net.mamoe.mirai-console")
 
-    group = "com.github.argonariod"
+    group = "io.github.argonariod"
     version = "1.0.0"
 
     repositories {
